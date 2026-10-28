@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+flake8
+nose
+pinocchio
+coverage
+nosecolor
+requests
